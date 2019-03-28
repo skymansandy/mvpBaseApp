@@ -1,7 +1,7 @@
 
 
 <resources>
-    <string name="app_name">MvpApp</string>
+    <string name="app_name">Mvp Skeleton</string>
 
     <!--Toolbar menus-->
     <string name="clear">Clear</string>

@@ -1,0 +1,1 @@
+# Android MVP skeleton app with basic stuff
